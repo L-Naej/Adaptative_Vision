@@ -10,3 +10,6 @@ Technologies used
 * pyOpenGL (to draw the scene)
 * pyOpenCV (computer vision, to track the user's head)
 * pyLiblo (OSC protocol implementation) 
+ 
+To start the program, symply run in console the script "./tp.sh".
+
