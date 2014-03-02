@@ -16,7 +16,7 @@ Usage
 ==
 To start the program, symply run in console the script "./tp.sh".
 
-You have to configure the program in order to make it work on your computer. The configuration is in config.cfg (plain text). The most important thing to configure is your screen dimensions (in millimeters).
+You have to configure the program in order to make it work on your computer. The configuration is in conf.cfg (plain text). The most important thing to configure is your screen dimensions (in millimeters).
 
 Parameters :
 * screenwidth : width of your screen in millimeters
