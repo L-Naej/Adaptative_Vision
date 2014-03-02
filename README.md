@@ -21,7 +21,7 @@ You have to configure the program in order to make it work your computer. The co
 Parameters :
 * screenwidth : width of your screen in millimeters
 * screenheight height of your screen in millimeters
-* ip : server IP (in general, localhost), ie. the machine where server.py is being executed
+* ip : server IP (generally, localhost), ie. the machine where server.py is being executed
 * port : port the server is listening to
 * treshold : value to tweak to improve stability of the head tracking. Higher the value, more stable is the detection, but a value too high will result in no more detection of the movement (head considered as still).
 * haarfile : cascading files containing statistics value used to detect a head in the camera stream. If you want to use an other file, change this value (see the haarcascades directory). See http://en.wikipedia.org/wiki/Haar-like_features for more information.
