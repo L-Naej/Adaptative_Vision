@@ -1,0 +1,7 @@
+width(float)
+height(float)
+IP(string)
+port(int)
+threshold(int)
+Haar classifier cascade xml file(string)
+webcam ID(int)
